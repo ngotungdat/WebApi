@@ -1,7 +1,7 @@
 # WebAPI
 Sủ dụng phần mềm Postman để test:
 - Copy đường dẫn: "http://www.ngotungdat.somee.com/api/values" dán vào khung request trong Postman và chọn method Get và click Send.
-Kết quả trả về sẽ có dạng như bên dưới: (Json)
+Kết quả trả về sẽ có dạng như sau: (Json)
 [
     {
         "ID": 1,
