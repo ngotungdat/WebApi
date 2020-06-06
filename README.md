@@ -19,5 +19,3 @@ Sủ dụng phần mềm Postman để test:
     },
 ]
 
-(Note: Vì chưa có điều kiện phải Deploy project lên host free và tất nhiên nó chỉ gánh được project mini.Hazzz....)
-
